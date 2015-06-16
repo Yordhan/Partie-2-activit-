@@ -1,0 +1,1 @@
+Dans cette activité, je vais créer un fichier HTML composé d’un titre et de quelques paragraphes que je vais colorer grâce à une feuille de style CSS. Quelque chose de simple pour vérifier que je maitrise bien Git.
